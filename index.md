@@ -11,15 +11,19 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# growth mindset
+is too be success and positive
+
 ## Header 2
 ### Header 3
 
 - Bulleted
 - List
-
-1. Numbered
-2. List
+[google](google.com)
+![image](https://images.squarespace-cdn.com/content/v1/50b88908e4b012760ada1011/1570306534270-4JN02S55IY4301CTQPEW/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI7Hk5b7wKtplcrxPf3ag-g6VC0ObVEO8cEICumLtlwuA/growth_mindset_activities?format=1000w)
+1.**eat healthy food **
+2. _be positve_
+3.`if others can do it that's mean u can do it!`
 
 **Bold** and _Italic_ and `Code` text
 
